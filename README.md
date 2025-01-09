@@ -19,10 +19,10 @@ Each solution includes:
 
 
 ## Stats
-- Easy: 0
+- Easy: 1
 - Medium: 0
 - Hard: 0
-- Total: 0
+- Total: 1
 
 ---
 Happy Coding! 🎯
