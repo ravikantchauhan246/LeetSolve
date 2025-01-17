@@ -20,7 +20,7 @@ Each solution includes:
 
 ## Stats
 - Easy: 1
-- Medium: 0
+- Medium: 1
 - Hard: 0
 - Total: 1
 
